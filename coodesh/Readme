@@ -1,0 +1,15 @@
+Foi usado para esse projeto as ferramentas:
+
+Cucumber
+Capybara
+Rspec
+Ruby
+Selenium-webdriver
+
+Para executar o projeto siga o passo a passo abaixo:
+
+Deve executar o comando "bundle install" no terminal
+-Esse comando instala todas as gems do projeto
+
+Após isso, basta executar comando "cucumber" no terminal.
+Para rodar os cenarios automatizados
